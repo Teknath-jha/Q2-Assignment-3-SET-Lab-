@@ -1,2 +1,2 @@
 First line by main
-Updated from Branch 1
+Updated from Branch 1 for merge conflict 
